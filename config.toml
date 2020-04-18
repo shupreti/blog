@@ -1,4 +1,14 @@
 baseURL = "https://divyanshu.dev/"
 languageCode = "en-us"
-title =  "SAY SOMETHING IN BIG CAPTIONS"
+title =  "divyanshu.dev"
 theme = "ananke"
+disqusShortname = "divyanshu-dev"
+
+
+[params]
+background_color_class = "bg-black"
+linkedin = "https://www.linkedin.com/in/divyanshu-upreti-2394998/"
+facebook = "https://www.facebook.com/divyanshu.upreti"
+featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+show_reading_time = true
+
